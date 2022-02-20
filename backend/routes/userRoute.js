@@ -19,7 +19,6 @@ router.post("/signin", async (req, res) => {
   } else {
     res.status(401).send({ msg: "Invalid Email or Passowrd" });
   }
-});
 
 router.get("/createadmin", async (req, res) => {
   try {
