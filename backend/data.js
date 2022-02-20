@@ -2,7 +2,7 @@ export default {
   products: [
     {
       _id: "1",
-      name: "Margherita",
+      name: "Margheritaa",
       category: "Vegetable",
       image: "/images/pizza1.jpg",
       description: "Pan pizza - crispy on the outside",
