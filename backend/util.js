@@ -6,6 +6,4 @@ const getToken = (user) => {
     expiresIn: "48h",
   });
 };
-export{
-    getToken
-}
+export default getToken;
